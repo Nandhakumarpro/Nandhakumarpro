@@ -6,7 +6,7 @@
 <a href="https://codepen.io/nandhakumarpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nandhakumarpro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nandha-kumar-35734010a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandha-kumar-35734010a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9964403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9964403" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ne1kn code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ne1kn code" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZ9a-lTua6Wuhf8ePOcZArg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ne1kn code" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nandhakumar_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nandhakumar_n" height="30" width="40" /></a>
 </p>
 
