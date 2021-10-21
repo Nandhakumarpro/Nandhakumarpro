@@ -28,6 +28,6 @@
   <a href="https://www.mysql.com/" target="_blank"> <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="60"/> </a>
   <a href="https://www.postgresql.org"  target="_blank"> <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="60"/> </a>
   <a href="https://www.postgresql.org"  target="_blank">
-     <img width="15%" src="javascript.svg" alt="postgresql" width="40" height="60"/>
+     <img width="15%" src="https://github.com/Nandhakumarpro/learnDjango/blob/master/javascript.svg" alt="postgresql" width="40" height="60"/>
   </a>
 </p>
