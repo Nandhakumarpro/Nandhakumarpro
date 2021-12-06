@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandhakumar</h1>
-<h3 align="center">A passionate Backend Developer <br>from Chennai, India</h3>
+<h3 align="center">A passionate Backend Developer <br>from Chennai, Tamilnadu, India</h3>
 <br>
 <br>
 <h3 align="center">Connect with me:</h3><br>
