@@ -15,7 +15,7 @@
 <h3 align="center" width="20%">Languages and Tools:</h3><br>
 <p width="60%" align="center">
   <a href="https://www.python.org" target="_blank"> <img width="20%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="60"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="60"/>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img width="20%" src="https://github.com/Nandhakumarpro/learnDjango/blob/master/icons8-django.svg" alt="django" width="40" height="60"/>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="60"/>
   <a href="https://angular.io" target="_blank"> <img width="20%" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="60"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="60"/> </a>
